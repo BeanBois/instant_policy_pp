@@ -1,0 +1,4 @@
+__pycache__/
+checkpoints*/
+demo[0-9].json
+.DS_Store
