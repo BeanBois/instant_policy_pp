@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # Replay a demo with its configuration (for sanity check)
     # replay_demo_with_config(demoset_id=0, demo_id=0)
 ```
-
+Then Run:
 ```bash
 python collect_human_demo
 
