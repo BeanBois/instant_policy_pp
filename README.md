@@ -22,7 +22,7 @@ if __name__ == "__main__":
 ```
 Then Run:
 ```bash
-python collect_human_demo
+python collect_human_demo.py
 
 ```
 ### Training Instant Policy Agent
